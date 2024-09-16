@@ -1,0 +1,7 @@
+.input{
+	color:red;
+	background-color:red;
+}
+.input:radio:nth-child(even){
+	color:red;
+}
